@@ -3,7 +3,7 @@
 
 An NFT marketplace where users can mint, buy, and sell unique digital assets like art, collectibles, or virtual real estate.
 
-Explanation:
+__Explanation:__
 
 The contract inherits from the OpenZeppelin ERC721 implementation, which provides the standard NFT functionalities.
 
