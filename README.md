@@ -14,4 +14,4 @@ __Explanation:__
  - The contract owner can set the listingFee, which users need to pay to list their NFTs for sale.
  - The withdrawFunds function allows the contract owner to withdraw any accumulated funds (e.g., listing fees or sales proceeds).
 
-Please note that this is a simplified implementation and lacks some advanced features such as a bidding mechanism for auctions. Implementing auctions can be more complex and might require additional considerations for handling bids, auction timers, and bid withdrawals. Additionally, consider adding security features and thoroughly testing the contract before deploying it to a production environment.
+__Note:__ Please note that this is a simplified implementation and lacks some advanced features such as a bidding mechanism for auctions. Implementing auctions can be more complex and might require additional considerations for handling bids, auction timers, and bid withdrawals. Additionally, consider adding security features and thoroughly testing the contract before deploying it to a production environment.
